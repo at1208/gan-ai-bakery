@@ -6,9 +6,9 @@
   4. Run `npm start` to start the application
   5. Listen the running application on port `http://localhost:3000/`
    
-  ### Note
+  ### Compromised
   1. The usage of typescript is compromised to certain level for faster development, like the type `any` is used in the most of the places.
-  2. Redux is used for the state management.
+  2. The UI design is compromised to certain level. 
   
   ### Tech stack
   1. CRA (Create React App)

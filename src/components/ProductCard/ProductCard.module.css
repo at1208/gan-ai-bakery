@@ -1,0 +1,72 @@
+.cardContainer {
+  /* box-shadow: 0.1rem 0.1px 0.1px rgba(0, 0, 0, 0.1),
+    1px 1px 1px 1px rgb(255, 255, 255), 0.1rem 0.1rem 0.1rem rgba(0, 0, 0, 0.1); */
+  text-align: center;
+  width: 180px;
+  height: 260px;
+  padding: 12px;
+  border: 1px solid lightgray;
+  position: relative;
+}
+
+.title {
+  padding: 12px;
+  font-size: 16px;
+}
+.description {
+  font-size: 14px;
+  text-align: left;
+}
+.price {
+  font-size: 14px;
+  font-weight: 900;
+}
+.addSubBox {
+  position: absolute;
+  bottom: 0px;
+  left: 0px;
+  right: 0px;
+  align-items: center;
+  padding: 12px;
+  display: flex;
+  gap: 30px;
+  justify-content: flex-end;
+}
+.countBox {
+  align-items: center;
+  width: 60px;
+  font-size: 14px;
+  display: flex;
+  gap: 5px;
+}
+.addBtn {
+  background-color: #5f6d7a;
+  border: 0px;
+  padding: 6px 12px;
+  color: white;
+  border-radius: 6px;
+  font-size: 14px;
+  cursor: pointer;
+  width: 60px;
+}
+.plus {
+  background-color: #5f6d7a;
+  border: 0px;
+  padding: 3px 8px;
+  color: white;
+  border-radius: 6px;
+  font-size: 14px;
+  cursor: pointer;
+}
+.minus {
+  background-color: #5f6d7a;
+  border: 0px;
+  padding: 3px 8px;
+  color: white;
+  border-radius: 6px;
+  font-size: 14px;
+  cursor: pointer;
+}
+.count {
+  font-size: 14px;
+}

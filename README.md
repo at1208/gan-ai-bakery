@@ -1,3 +1,5 @@
+<img width="1440" alt="Screenshot 2023-05-07 at 6 42 31 PM" src="https://user-images.githubusercontent.com/44891284/236679682-49d76c47-72f5-430d-a28d-9df37503bc0d.png">
+<img width="1438" alt="Screenshot 2023-05-07 at 6 42 43 PM" src="https://user-images.githubusercontent.com/44891284/236679688-c8c1eada-85a8-47cd-ac4e-e86ae374e2c9.png">
   ### Command to run the application in localhost
   
   1. Clone this Repository
